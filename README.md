@@ -1,1 +1,1 @@
-# Project-4-Advanced-Text-to-Image-Generation
+# Project-Advanced-Text-to-Image-Generation
