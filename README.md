@@ -1,6 +1,6 @@
 # 🔮 Fast DreamBooth Training & Inference Pipeline
 
-![Fast DreamBooth Fine-Tuning Workflow]([https://via.placeholder.com/1920x400.png?text=Fast+DreamBooth+AI+Fine-Tuning+Workflow](https://github.com/brian6091/Dreambooth?tab=readme-ov-file))
+![Fast DreamBooth Fine-Tuning Workflow]((https://github.com/brian6091/Dreambooth?tab=readme-ov-file))
 
 > **Transform your images into personalized AI models in minutes, not hours.**
 
@@ -320,6 +320,32 @@ This project is licensed under the **Apache License 2.0** - see [LICENSE](LICENS
 - ⚠️ Include original license
 - ⚠️ State changes made
 - ⚠️ Include copyright notice
+
+
+## 👥 Team Members
+
+Meet the talented developers behind this project:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/mahmoud0nasser"><img src="https://github.com/mahmoud0nasser.png" width="100px;" alt="Mahmoud Nasser"/><br /><sub><b>Mahmoud Nasser</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Shahdali812004"><img src="https://github.com/Shahdali812004.png" width="100px;" alt="Shahd Ali"/><br /><sub><b>Shahd Ali</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Fady-Atia"><img src="https://github.com/Fady-Atia.png" width="100px;" alt="Fady Atia"/><br /><sub><b>Fady Atia</b></sub></a></td>
+    </tr>
+  </table>
+</div>
+
+### Project Instructor
+
+<div align="center">
+  <a href="https://github.com/agoor97">
+    <img src="https://github.com/agoor97.png" width="100px;" alt="Mohammed Agoor"/>
+    <br />
+    <sub><b>Ahmed Goor</b></sub>
+  </a>
+  <p><i>Special thanks to our instructor for guidance and expertise throughout the development process.</i></p>
+</div>
 
 ## 🙏 Acknowledgments
 
