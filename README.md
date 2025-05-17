@@ -1,7 +1,6 @@
 # 🔮 Fast DreamBooth Training & Inference Pipeline
 
-![Fast DreamBooth Fine-Tuning Workflow]((https://github.com/brian6091/Dreambooth?tab=readme-ov-file))
-
+[![Fast DreamBooth Fine-Tuning Workflow](https://via.placeholder.com/1920x400.png?text=Fast+DreamBooth+AI+Fine-Tuning+Workflow)](https://github.com/brian6091/Dreambooth?tab=readme-ov-file)
 > **Transform your images into personalized AI models in minutes, not hours.**
 
 A production-ready solution for fine-tuning Stable Diffusion models with the DreamBooth technique. Create custom AI art with your subjects using our intuitive interfaces and optimized training pipeline.
@@ -342,7 +341,7 @@ Meet the talented developers behind this project:
   <a href="https://github.com/agoor97">
     <img src="https://github.com/agoor97.png" width="100px;" alt="Mohammed Agoor"/>
     <br />
-    <sub><b>Ahmed Goor</b></sub>
+    <sub><b>Mohammed Agoor</b></sub>
   </a>
   <p><i>Special thanks to our instructor for guidance and expertise throughout the development process.</i></p>
 </div>
