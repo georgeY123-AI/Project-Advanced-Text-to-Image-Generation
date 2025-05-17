@@ -360,6 +360,6 @@ Meet the talented developers behind this project:
   
 **Maintained with ❤️ by George**
 
-[📧 Contact](mailto:george.youssef077@gmail.com) • [🌐 Website]((https://george-github-io.vercel.app/)]) • [📱 WhatsApp](https://wa.me/201206810685)
+[📧 Contact](mailto:george.youssef077@gmail.com) • [🌐 Website](https://george-github-io.vercel.app/) • [📱 WhatsApp](https://wa.me/201206810685)
 
 </div>
