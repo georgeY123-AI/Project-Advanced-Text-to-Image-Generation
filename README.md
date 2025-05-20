@@ -323,7 +323,7 @@ This project is licensed under the **Apache License 2.0** - see [LICENSE](LICENS
 
 ## 👥 Team Members
 
-Meet the talented developers behind this project:
+## Meet the Team
 
 <div align="center">
   <table>
@@ -335,7 +335,7 @@ Meet the talented developers behind this project:
   </table>
 </div>
 
-### Project Instructor
+## Project Instructor
 
 <div align="center">
   <a href="https://github.com/agoor97">
@@ -344,6 +344,16 @@ Meet the talented developers behind this project:
     <sub><b>Mohammed Agoor</b></sub>
   </a>
   <p><i>Special thanks to our instructor for guidance and expertise throughout the development process.</i></p>
+</div>
+
+## Project Resources
+
+<div align="center">
+  <p>
+    📘 <a href="https://drive.google.com/file/d/13T_kGV5RLi-SDVUNJtaykGxeeR2zMJx2/view?usp=sharing" target="_blank"><b>Helper Documentation</b></a><br/>
+    🖥️ <a href="https://www.canva.com/design/DAGnojPgjdk/c2AcDpjHQQH0Qj1I9yhcKQ/edit?utm_content=DAGnojPgjdk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><b>Presentation Slides</b></a>
+  </p>
+  <p><i>Helpful materials to guide you through the project setup, usage, and presentation overview.</i></p>
 </div>
 
 ## 🙏 Acknowledgments
